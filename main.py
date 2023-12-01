@@ -1,4 +1,4 @@
-'''a=int(input())
+a=int(input())
 b=int(input())
 c=int(input())
 n=a//2
@@ -30,4 +30,4 @@ m=int(input())
 if m%n==0:
     print(m//n)
 else:
-    print(m // n+1)'''
+    print(m // n+1)
